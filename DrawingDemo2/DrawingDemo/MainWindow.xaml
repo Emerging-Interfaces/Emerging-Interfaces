@@ -1,0 +1,9 @@
+﻿<Window x:Class="DrawingDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Canvas x:Name="myCanvas" HorizontalAlignment="Left" Height="299" Margin="10,10,0,0" VerticalAlignment="Top" Width="497" MouseDown="myCanvas_MouseDown" MouseUp="myCanvas_MouseUp" MouseMove="myCanvas_MouseMove" Background="White" TouchMove="myCanvas_TouchMove" TouchDown="myCanvas_TouchDown"/>
+
+    </Grid>
+</Window>
