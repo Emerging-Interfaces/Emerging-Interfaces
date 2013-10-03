@@ -21,7 +21,7 @@ namespace DrawingDemo
     public partial class MainWindow : Window
     {
         // testing bool
-        private bool mouseTest = true;
+        private bool mouseTest = false;
 
 
         private bool isMouseDown = false;
@@ -31,8 +31,11 @@ namespace DrawingDemo
         private Point currMouseLoc = new Point();
 
         // Lists for touch collections
-        private TouchPoint tpCurr;
-        private TouchPoint tpPrev;
+        //private TouchPoint tpCurr;
+        //private TouchPoint tpPrev;
+
+        private Dictionary<int, Point> prevTouches = new Dictionary<int,Point>();
+        private Dictionary<int, Point> currTouches = new Dictionary<int,Point>();
 
         public MainWindow()
         {
@@ -116,17 +119,36 @@ namespace DrawingDemo
 
         private void myCanvas_TouchMove(object sender, TouchEventArgs e)
         {
-            tpCurr = e.GetTouchPoint(this);
+            //tpCurr = e.GetTouchPoint(this);
 
-            draw(Brushes.Black, tpPrev.Position, tpCurr.Position, 3);
+            int tempId = e.TouchDevice.Id;
+            Point tempPoint = e.GetTouchPoint(this).Position;
+
+            currTouches.Add(tempId, tempPoint);
+
+            draw(Brushes.Black, prevTouches[tempId], currTouches[tempId], 3);
+
+            prevTouches[tempId] = currTouches[tempId];
 
             // set prev touch collect to current
-            tpPrev = tpCurr;
+            //tpPrev = tpCurr;
         }        
 
         private void myCanvas_TouchDown(object sender, TouchEventArgs e)
         {
-            tpPrev = e.GetTouchPoint(this);
+            //tpPrev = e.GetTouchPoint(this);
+
+            // Store the touch id and the touch location
+            int tempId = e.TouchDevice.Id;
+            Point tempPoint = e.GetTouchPoint(this).Position;
+
+            prevTouches.Add(tempId, tempPoint);
+        }
+
+        private void myCanvas_TouchUp(object sender, TouchEventArgs e)
+        {
+            prevTouches.Remove(e.TouchDevice.Id);
+            currTouches.Remove(e.TouchDevice.Id);
         }
     }
 }
