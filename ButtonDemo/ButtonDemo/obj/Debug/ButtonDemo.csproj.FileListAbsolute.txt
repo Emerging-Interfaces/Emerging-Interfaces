@@ -1,0 +1,13 @@
+\\banner.main.ad.rit.edu\students\zdw1791\IGMProfile\Desktop\ButtonDemo\ButtonDemo\bin\Debug\ButtonDemo.exe.config
+\\banner.main.ad.rit.edu\students\zdw1791\IGMProfile\Desktop\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\zdw1791\IGMProfile\Desktop\ButtonDemo\ButtonDemo\obj\Debug\MainWindow.baml
+\\banner.main.ad.rit.edu\students\zdw1791\IGMProfile\Desktop\ButtonDemo\ButtonDemo\obj\Debug\MainWindow.g.cs
+\\banner.main.ad.rit.edu\students\zdw1791\IGMProfile\Desktop\ButtonDemo\ButtonDemo\obj\Debug\App.g.cs
+\\banner.main.ad.rit.edu\students\zdw1791\IGMProfile\Desktop\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo_MarkupCompile.cache
+\\banner.main.ad.rit.edu\students\zdw1791\IGMProfile\Desktop\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.g.resources
+\\banner.main.ad.rit.edu\students\zdw1791\IGMProfile\Desktop\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.Properties.Resources.resources
+\\banner.main.ad.rit.edu\students\zdw1791\IGMProfile\Desktop\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.csproj.GenerateResource.Cache
+\\banner.main.ad.rit.edu\students\zdw1791\IGMProfile\Desktop\ButtonDemo\ButtonDemo\bin\Debug\ButtonDemo.exe
+\\banner.main.ad.rit.edu\students\zdw1791\IGMProfile\Desktop\ButtonDemo\ButtonDemo\bin\Debug\ButtonDemo.pdb
+\\banner.main.ad.rit.edu\students\zdw1791\IGMProfile\Desktop\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.exe
+\\banner.main.ad.rit.edu\students\zdw1791\IGMProfile\Desktop\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.pdb

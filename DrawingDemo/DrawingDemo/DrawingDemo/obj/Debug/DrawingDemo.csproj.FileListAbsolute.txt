@@ -1,0 +1,13 @@
+\\banner.main.ad.rit.edu\students\rcn6438\IGMProfile\Desktop\DrawingDemo\DrawingDemo\bin\Debug\DrawingDemo.exe.config
+\\banner.main.ad.rit.edu\students\rcn6438\IGMProfile\Desktop\DrawingDemo\DrawingDemo\bin\Debug\DrawingDemo.exe
+\\banner.main.ad.rit.edu\students\rcn6438\IGMProfile\Desktop\DrawingDemo\DrawingDemo\bin\Debug\DrawingDemo.pdb
+\\banner.main.ad.rit.edu\students\rcn6438\IGMProfile\Desktop\DrawingDemo\DrawingDemo\obj\Debug\DrawingDemo.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\rcn6438\IGMProfile\Desktop\DrawingDemo\DrawingDemo\obj\Debug\MainWindow.baml
+\\banner.main.ad.rit.edu\students\rcn6438\IGMProfile\Desktop\DrawingDemo\DrawingDemo\obj\Debug\MainWindow.g.cs
+\\banner.main.ad.rit.edu\students\rcn6438\IGMProfile\Desktop\DrawingDemo\DrawingDemo\obj\Debug\App.g.cs
+\\banner.main.ad.rit.edu\students\rcn6438\IGMProfile\Desktop\DrawingDemo\DrawingDemo\obj\Debug\DrawingDemo_MarkupCompile.cache
+\\banner.main.ad.rit.edu\students\rcn6438\IGMProfile\Desktop\DrawingDemo\DrawingDemo\obj\Debug\DrawingDemo.g.resources
+\\banner.main.ad.rit.edu\students\rcn6438\IGMProfile\Desktop\DrawingDemo\DrawingDemo\obj\Debug\DrawingDemo.Properties.Resources.resources
+\\banner.main.ad.rit.edu\students\rcn6438\IGMProfile\Desktop\DrawingDemo\DrawingDemo\obj\Debug\DrawingDemo.csproj.GenerateResource.Cache
+\\banner.main.ad.rit.edu\students\rcn6438\IGMProfile\Desktop\DrawingDemo\DrawingDemo\obj\Debug\DrawingDemo.exe
+\\banner.main.ad.rit.edu\students\rcn6438\IGMProfile\Desktop\DrawingDemo\DrawingDemo\obj\Debug\DrawingDemo.pdb
